@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ziad Aboageza👋</h1>
-<h3 align="center"> Software Engineer undergraduate</h3>
+<h3 align="center"> Undergraduate Software Engineering Student</h3>
 
 <div align="center">
         <img src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' alt='developer' />
