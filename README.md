@@ -8,9 +8,9 @@
 <h2 ><p style="Times, serif">Keep in touch with me 😊</p></h2>
 <p align=>
   <a href="https://www.linkedin.com/in/ziad-aboageza-46562823a/">
-  <img src="https://img.shields.io/bastyle=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/ziad.aboagiza.3/">
-  <img src="https://img.shields.io/badge/facebookstyle=flat&logo=facebook&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="mailto:ziadaboageza@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
